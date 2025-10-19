@@ -11,4 +11,4 @@
 ### Learning
 - Python, Linux workflows, and practical project development 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammooneydev&layout=compact&theme=dark_dimmed)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammooneydev&layout=compact)
