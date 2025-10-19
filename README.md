@@ -13,4 +13,17 @@
 
 ---
 
+<table>
+<tr>
+<td>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammooneydev&theme=github_dark)
+
+</td>
+<td>
+
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThobjVlMGxpZXhtcWVmeWIxMXJyMWQ3dmp1NHN2eWl1b3N4dXNwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif)
+
+</td>
+</tr>
+</table>
