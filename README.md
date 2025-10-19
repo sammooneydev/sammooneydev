@@ -22,8 +22,10 @@
 </td>
 <td>
 
-![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThobjVlMGxpZXhtcWVmeWIxMXJyMWQ3dmp1NHN2eWl1b3N4dXNwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif)
-
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThobjVlMGxpZXhtcWVmeWIxMXJyMWQ3dmp1NHN2eWl1b3N4dXNwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" 
+       width="270" 
+       height="270" 
+       style="object-fit: cover;">
 </td>
 </tr>
 </table>
