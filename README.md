@@ -2,14 +2,14 @@
 
 ### About
 - BSc (Hons) Computing student at Abertay University in Scotland
-- Interested in search technologies, Linux tinkering, and clean backend engineering
-- Enjoys building fun and unique software, as well as tools that solve niche problems
+- Interested in search technologies and Linux tinkering 
+- Enjoys building fun projects and learning new things
 
 ### Currently Exploring...
 - Search and information retrieval strategies, indexing, and ranking techniques influenced by my current honours work
 
 ### Learning
-- Python, Linux workflows, and practical project development 
+- Python and Linux workflows
 
 ---
 
