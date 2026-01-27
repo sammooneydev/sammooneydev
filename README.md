@@ -2,7 +2,7 @@
 
 ### About
 - BSc (Hons) Computing student at Abertay University in Scotland
-- I Enjoy building fun projects and learning new things
+- I enjoy building fun projects and learning new things
 
 ### Currently Exploring...
 - Search and information retrieval due to my current honours work
